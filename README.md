@@ -1,5 +1,5 @@
  <div class="header" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Wookyoung's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Wookyoung's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=40acc4&text=Wookyoung's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Wookyoung's GitHub">
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
@@ -19,17 +19,18 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+          <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-          </div>
-    </div>
-    <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arendt9797&show_icons=true&theme=radical" />
+      </div>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arendt9797" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arendt9797" />
 </div>
 
-<br>
-    
+
+
     
