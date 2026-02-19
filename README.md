@@ -26,9 +26,10 @@
           <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
           </div>
     </div>
-    <div align= "center"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arendt9797&show_icons=true&theme=radical)
-    </div>
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arendt9797&show_icons=true&theme=radical" />
+</div>
+
 <br>
     
     
